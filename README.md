@@ -12,5 +12,5 @@ Output: **full EAN-13** ([Wikipedia](https://en.wikipedia.org/wiki/International
 
 Examples:<br />
 ![alt-text](https://github.com/tedtheripper/EAN13-generator-Cx86/blob/master/img/barcode1.bmp "Result barcode1")<br />
-![alt-text](https://github.com/tedtheripper/EAN13-generator-mips/blob/master/img/barcode2.bmp "Result barcode2")<br />
-![alt-text](https://github.com/tedtheripper/EAN13-generator-mips/blob/master/img/barcode3.bmp "Result barcode3")<br />
+![alt-text](https://github.com/tedtheripper/EAN13-generator-Cx86/blob/master/img/barcode2.bmp "Result barcode2")<br />
+![alt-text](https://github.com/tedtheripper/EAN13-generator-Cx86/blob/master/img/barcode3.bmp "Result barcode3")<br />
