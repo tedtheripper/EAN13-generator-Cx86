@@ -6,7 +6,8 @@ You can easily modify the codes inside the *main* function in **main.c** file.<b
 Each code should have corresponding width which can also be added in **main.c** file.<br />
 The program does not check whether user input is correct or not.<br />
 
-To initialize building use **make all** command.<br />
+You need to have gcc and nasm compilators installed.<br />
+To initialize building use ```make all``` command.<br />
 
 Output: **full EAN-13** ([Wikipedia](https://en.wikipedia.org/wiki/International_Article_Number)) **barcode**<br />
 
