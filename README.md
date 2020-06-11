@@ -1,6 +1,6 @@
 # EAN-13 barcode generator
 
-Short C + x86 program written as a project for Computer Architecture course.<br />
+Short hybrid program written as a project for Computer Architecture course.<br />
 Each code can be made with different stripe width.<br />
 You can easily modify the codes inside the *main* function in **main.c** file.<br />
 Each code should have corresponding width which can also be added in **main.c** file.<br />
